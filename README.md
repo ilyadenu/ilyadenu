@@ -9,13 +9,15 @@
     <img src="https://skillicons.dev/icons?i=python,postgresql,fastapi,django" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ilyadenu/ilyadenu/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2 align="center"> Write me </h2>
+<div align="center"> 
+  <a href="https://t.me/ilyadenu">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ilyadenu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vk.com/ilyadenu">
+     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" />
+  </a>
 </div>
