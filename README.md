@@ -1,6 +1,8 @@
 ![Header](https://github.com/ilyadenu/ilyadenu/blob/main/assets/2023-12-29_04-54-43.png)
 
-## I am passionate about Python web development and write code for scientific research in my free time.
+<div align="center"> 
+I am passionate about Python web development and write code for scientific research in my free time.
+</div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
@@ -14,10 +16,10 @@
   <a href="https://t.me/ilyadenu">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:ilyadenu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ilyadenu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://vk.com/ilyadenu">
-     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" />
+     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" target="_blank"/>
   </a>
 </div>
